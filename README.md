@@ -1,4 +1,4 @@
-# Repsy Package Repository
+# Full-Stack Package Repository
 
 Spring Boot application for managing `.rep` packages and metadata for the Repsy language.
 
